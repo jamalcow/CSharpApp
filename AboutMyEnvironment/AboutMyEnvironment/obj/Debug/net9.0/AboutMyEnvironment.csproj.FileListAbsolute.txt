@@ -1,0 +1,15 @@
+C:\Users\jamma\Documents\GitHub\CSharpApp\AboutMyEnvironment\AboutMyEnvironment\obj\Debug\net9.0\AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamma\Documents\GitHub\CSharpApp\AboutMyEnvironment\AboutMyEnvironment\obj\Debug\net9.0\AboutMyEnvironment.AssemblyInfoInputs.cache
+C:\Users\jamma\Documents\GitHub\CSharpApp\AboutMyEnvironment\AboutMyEnvironment\obj\Debug\net9.0\AboutMyEnvironment.AssemblyInfo.cs
+C:\Users\jamma\Documents\GitHub\CSharpApp\AboutMyEnvironment\AboutMyEnvironment\obj\Debug\net9.0\AboutMyEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\jamma\Documents\GitHub\CSharpApp\AboutMyEnvironment\AboutMyEnvironment\obj\Debug\net9.0\AboutMyEnvironment.sourcelink.json
+C:\Users\jamma\Documents\GitHub\CSharpApp\AboutMyEnvironment\AboutMyEnvironment\bin\Debug\net9.0\AboutMyEnvironment.exe
+C:\Users\jamma\Documents\GitHub\CSharpApp\AboutMyEnvironment\AboutMyEnvironment\bin\Debug\net9.0\AboutMyEnvironment.deps.json
+C:\Users\jamma\Documents\GitHub\CSharpApp\AboutMyEnvironment\AboutMyEnvironment\bin\Debug\net9.0\AboutMyEnvironment.runtimeconfig.json
+C:\Users\jamma\Documents\GitHub\CSharpApp\AboutMyEnvironment\AboutMyEnvironment\bin\Debug\net9.0\AboutMyEnvironment.dll
+C:\Users\jamma\Documents\GitHub\CSharpApp\AboutMyEnvironment\AboutMyEnvironment\bin\Debug\net9.0\AboutMyEnvironment.pdb
+C:\Users\jamma\Documents\GitHub\CSharpApp\AboutMyEnvironment\AboutMyEnvironment\obj\Debug\net9.0\AboutMyEnvironment.dll
+C:\Users\jamma\Documents\GitHub\CSharpApp\AboutMyEnvironment\AboutMyEnvironment\obj\Debug\net9.0\refint\AboutMyEnvironment.dll
+C:\Users\jamma\Documents\GitHub\CSharpApp\AboutMyEnvironment\AboutMyEnvironment\obj\Debug\net9.0\AboutMyEnvironment.pdb
+C:\Users\jamma\Documents\GitHub\CSharpApp\AboutMyEnvironment\AboutMyEnvironment\obj\Debug\net9.0\AboutMyEnvironment.genruntimeconfig.cache
+C:\Users\jamma\Documents\GitHub\CSharpApp\AboutMyEnvironment\AboutMyEnvironment\obj\Debug\net9.0\ref\AboutMyEnvironment.dll
