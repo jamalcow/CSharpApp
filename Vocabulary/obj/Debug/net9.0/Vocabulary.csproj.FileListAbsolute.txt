@@ -1,0 +1,15 @@
+C:\Users\jamma\Documents\GitHub\CSharpApp\Vocabulary\obj\Debug\net9.0\Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamma\Documents\GitHub\CSharpApp\Vocabulary\obj\Debug\net9.0\Vocabulary.AssemblyInfoInputs.cache
+C:\Users\jamma\Documents\GitHub\CSharpApp\Vocabulary\obj\Debug\net9.0\Vocabulary.AssemblyInfo.cs
+C:\Users\jamma\Documents\GitHub\CSharpApp\Vocabulary\obj\Debug\net9.0\Vocabulary.csproj.CoreCompileInputs.cache
+C:\Users\jamma\Documents\GitHub\CSharpApp\Vocabulary\obj\Debug\net9.0\Vocabulary.sourcelink.json
+C:\Users\jamma\Documents\GitHub\CSharpApp\Vocabulary\bin\Debug\net9.0\Vocabulary.exe
+C:\Users\jamma\Documents\GitHub\CSharpApp\Vocabulary\bin\Debug\net9.0\Vocabulary.deps.json
+C:\Users\jamma\Documents\GitHub\CSharpApp\Vocabulary\bin\Debug\net9.0\Vocabulary.runtimeconfig.json
+C:\Users\jamma\Documents\GitHub\CSharpApp\Vocabulary\bin\Debug\net9.0\Vocabulary.dll
+C:\Users\jamma\Documents\GitHub\CSharpApp\Vocabulary\bin\Debug\net9.0\Vocabulary.pdb
+C:\Users\jamma\Documents\GitHub\CSharpApp\Vocabulary\obj\Debug\net9.0\Vocabulary.dll
+C:\Users\jamma\Documents\GitHub\CSharpApp\Vocabulary\obj\Debug\net9.0\refint\Vocabulary.dll
+C:\Users\jamma\Documents\GitHub\CSharpApp\Vocabulary\obj\Debug\net9.0\Vocabulary.pdb
+C:\Users\jamma\Documents\GitHub\CSharpApp\Vocabulary\obj\Debug\net9.0\Vocabulary.genruntimeconfig.cache
+C:\Users\jamma\Documents\GitHub\CSharpApp\Vocabulary\obj\Debug\net9.0\ref\Vocabulary.dll

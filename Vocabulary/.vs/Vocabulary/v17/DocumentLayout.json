@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jamma\\Documents\\GitHub\\CSharpApp\\Vocabulary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C60D10D0-A5DD-483D-BC29-D5758E37B8B5}|Vocabulary.csproj|c:\\users\\jamma\\documents\\github\\csharpapp\\vocabulary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60D10D0-A5DD-483D-BC29-D5758E37B8B5}|Vocabulary.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60D10D0-A5DD-483D-BC29-D5758E37B8B5}|Vocabulary.csproj|c:\\users\\jamma\\documents\\github\\csharpapp\\vocabulary\\vocabulary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C60D10D0-A5DD-483D-BC29-D5758E37B8B5}|Vocabulary.csproj|solutionrelative:vocabulary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vocabulary",
+              "DocumentMoniker": "C:\\Users\\jamma\\Documents\\GitHub\\CSharpApp\\Vocabulary\\Vocabulary.csproj",
+              "RelativeDocumentMoniker": "Vocabulary.csproj",
+              "ToolTip": "C:\\Users\\jamma\\Documents\\GitHub\\CSharpApp\\Vocabulary\\Vocabulary.csproj",
+              "RelativeToolTip": "Vocabulary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T13:47:48.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jamma\\Documents\\GitHub\\CSharpApp\\Vocabulary\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jamma\\Documents\\GitHub\\CSharpApp\\Vocabulary\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:46:43.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
