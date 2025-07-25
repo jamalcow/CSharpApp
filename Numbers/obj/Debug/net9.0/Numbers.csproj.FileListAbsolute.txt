@@ -1,0 +1,5 @@
+C:\Users\jamma\Documents\GitHub\CSharpApp\Numbers\obj\Debug\net9.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamma\Documents\GitHub\CSharpApp\Numbers\obj\Debug\net9.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\jamma\Documents\GitHub\CSharpApp\Numbers\obj\Debug\net9.0\Numbers.AssemblyInfo.cs
+C:\Users\jamma\Documents\GitHub\CSharpApp\Numbers\obj\Debug\net9.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\jamma\Documents\GitHub\CSharpApp\Numbers\obj\Debug\net9.0\Numbers.sourcelink.json
